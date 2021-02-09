@@ -12,9 +12,9 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: npm install
-      - run: npm prebuild
-      - run: npm build
+      - run: yarn install
+      - run: yarn prebuild
+      - run: yarn build
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
