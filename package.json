@@ -24,7 +24,9 @@
     "Creco",
     "CreatiCoding"
   ],
-  "author": "CreatiCoding",
+  "author": {
+    "name": "creaticoding"
+  },
   "license": "MIT",
   "dependencies": {
     "ink": "^2.7.1",
