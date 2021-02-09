@@ -1,10 +1,10 @@
 import React from "react";
 import { render } from "ink";
-import { Jbee } from "./jbee";
+import { Creco } from "./creco";
 
 const cli = {
   run() {
-    render(React.createElement(Jbee));
+    render(React.createElement(Creco));
   },
 };
 

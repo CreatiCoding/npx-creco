@@ -1,17 +1,23 @@
-# npx-jbee
+# npx-creco
 
-[![npm download count](https://badgen.net/npm/dt/jbee)](https://badgen.net/npm/dt/jbee)
-[![npm version](https://badge.fury.io/js/jbee.svg)](https://badge.fury.io/js/jbee)
+[![npm download count](https://badgen.net/npm/dt/creco)](https://badgen.net/npm/dt/creco)
+[![npm version](https://badge.fury.io/js/creco.svg)](https://badge.fury.io/js/creco)
 [![custom badge](https://img.shields.io/badge/introduce-myself-orange)](https://img.shields.io/badge/introduce-myself-orange)
-[![jbee about](https://img.shields.io/badge/about-jbee-yellow)](https://jbee.io/about)
+[![creco about](https://img.shields.io/badge/about-creco-yellow)](https://www.creco-home.site/about)
 
-<a href="https://twitter.com/JbeeLjyhanll">
-<img alt="Twitter: JbeeLjyhanll" src="https://img.shields.io/twitter/follow/JbeeLjyhanll.svg?style=social" target="_blank" />
+<a href="https://twitter.com/creaticoding">
+<img alt="Twitter: creaticoding" src="https://img.shields.io/twitter/follow/creaticoding.svg?style=social" target="_blank" />
 </a>
 
 ```sh
-$ npx jbee
+$ npx creco
 ```
+
+<div align="center">
+  <sub>
+    <sup>Forked by <a href="https://github.com/CreatiCoding">@Creco</a></sup>
+  </sub>
+</div>
 
 <div align="center">
   <sub>

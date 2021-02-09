@@ -1,10 +1,10 @@
 {
-  "name": "jbee",
-  "version": "0.0.2",
-  "description": "About Jbee cli",
+  "name": "creco",
+  "version": "0.0.1",
+  "description": "About Creco cli",
   "main": "index.js",
   "bin": {
-    "jbee": "./bin/run"
+    "creco": "./bin/run"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -21,9 +21,10 @@
   },
   "keywords": [
     "introduce",
-    "Jbee"
+    "Creco",
+    "CreatiCoding"
   ],
-  "author": "JaeYeopHan",
+  "author": "CreatiCoding",
   "license": "MIT",
   "dependencies": {
     "ink": "^2.7.1",
