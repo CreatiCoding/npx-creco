@@ -15,13 +15,11 @@ jobs:
       - run: yarn install
       - run: yarn prebuild
       - run: yarn build
-
       - name: npm whoami
         env:
           NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
         run: |
           npm whoami
-
       - name: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
