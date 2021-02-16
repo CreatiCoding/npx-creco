@@ -30,7 +30,7 @@ export const Creco = () => {
             {"    "}
             Blog{" "}
           </Color>
-          <Text underline> https://www.creco-home.site</Text>
+          <Text underline> https://creco.today</Text>
         </Text>
         <Text>
           <Color bgWhiteBright black>
@@ -38,13 +38,6 @@ export const Creco = () => {
             Twitter{" "}
           </Color>
           <Text underline> https://twitter.com/CreatiCoding</Text>
-        </Text>
-        <Text>
-          <Color bgWhiteBright black>
-            {" "}
-            LeetCode{" "}
-          </Color>
-          <Text underline> https://www.creco-home.site/DailyLeetCodeJS</Text>
         </Text>
       </Box>
       <Color gray>Out of box, pay it forward 👋</Color>

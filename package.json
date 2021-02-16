@@ -1,6 +1,6 @@
 {
   "name": "creco",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "About Creco cli",
   "main": "index.js",
   "bin": {
