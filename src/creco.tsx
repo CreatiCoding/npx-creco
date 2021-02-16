@@ -39,6 +39,13 @@ export const Creco = () => {
           </Color>
           <Text underline> https://twitter.com/CreatiCoding</Text>
         </Text>
+        <Text>
+          <Color bgWhiteBright black>
+            {" "}
+            LeetCode{" "}
+          </Color>
+          <Text underline> https://www.creco-home.site/DailyLeetCodeJS</Text>
+        </Text>
       </Box>
       <Color gray>Out of box, pay it forward 👋</Color>
       <Text underline>https://www.buymeacoffee.com/creaticoding</Text>
